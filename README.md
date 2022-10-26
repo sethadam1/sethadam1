@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @sethadam1
+- 🐡 Most people know me from [Songfish](https://songfishapp.com) or [@phishnet](https://github.com/phishnet). 
+- 🎧 I like Phish, Umphrey's McGee, Ghost and lots of other music. 
+- 🍎 I use all of the Apple stuff. 
+- 📦 I write mostly in PHP.  
+- 📫 You can find me on Twitter and Instagram at @sethadam1.  
