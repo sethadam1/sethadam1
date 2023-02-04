@@ -3,4 +3,5 @@
 - 🎧 I like Phish, Umphrey's McGee, Ghost and lots of other music. 
 - 🍎 I use all of the Apple stuff. 
 - 📦 I write mostly in PHP.  
-- 📫 You can find me on Twitter and Instagram at @sethadam1.  
+- 📫 You can find me on ~Twitter~ and Instagram at @sethadam1.  
+- I'm on Mastodon as @sethadam1@shakedown.social.
