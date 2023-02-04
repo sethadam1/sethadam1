@@ -4,4 +4,4 @@
 - 🍎 I use all of the Apple stuff. 
 - 📦 I write mostly in PHP.  
 - 📫 You can find me on ~Twitter~ and Instagram at @sethadam1.  
-- I'm on Mastodon as @sethadam1@shakedown.social.
+- 🐘 I'm on Mastodon as @sethadam1@shakedown.social.
