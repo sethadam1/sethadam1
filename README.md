@@ -3,7 +3,9 @@
 - 🐡 Most people know me from [Songfish](https://songfishapp.com) or [@phishnet](https://github.com/phishnet). 
 - 🎧 I like Phish, Umphrey's McGee, Ghost, Dream Theater, Haken, and lots of other music. 
 - 🍎 I use all of the Apple stuff. 
-- 📦 I write mostly in PHP.  
-- 📫 You can find me on ~Twitter and~ Instagram at @sethadam1.  
-- 🐘 I'm on Mastodon as @sethadam1@shakedown.social.
-- 🐘 I'm on Threads as @sethadam1@threads.net.
+- 📦 I write mostly in PHP.
+- 🌞 I'm on Bluesky as [@sethadam1.com](https://bsky.app/profile/sethadam1.com).
+- 📫 You can find me on ~Twitter and~ [Instagram]([https://](http://instagram.com/sethadam1/) at @sethadam1.  
+- 🐘 I'm on Mastodon as [@sethadam1@shakedown.social](https://shakedown.social/@sethadam1).
+- 🧵 I'm on Threads as [@sethadam1@threads.net](https://www.threads.net/@sethadam1).
+- 🌐 The rest you can find at [sethadam1.com](https://sethadam1.com)
