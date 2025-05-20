@@ -6,6 +6,6 @@
 - 📦 I write mostly in PHP.
 - 🌞 I'm on Bluesky as [@sethadam1.com](https://bsky.app/profile/sethadam1.com).
 - 📫 You can find me on ~Twitter and~ [Instagram](http://instagram.com/sethadam1/) at @sethadam1.  
-- 🐘 I'm on Mastodon as [@sethadam1@shakedown.social](https://shakedown.social/@sethadam1).
-- 🧵 I'm on Threads as [@sethadam1@threads.net](https://www.threads.net/@sethadam1).
+- 🐘 I'm on Mastodon as [@sethadam1@shakedown.social](https://shakedown.social/@sethadam1) and [@sethadam1@fosstodon.org](https://fosstodon.org/@sethadam1).
+- 🧵 I'm on Threads as [@sethadam1@threads.net](https://www.threads.net/@sethadam1), but don't use it much.
 - 🌐 The rest you can find at [sethadam1.com](https://sethadam1.com)
