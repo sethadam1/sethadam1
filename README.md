@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @sethadam1
 - 📇 I go by Adam. I know it's confusing.   
-- 🐡 Most people know me from [Songfish](https://songfishapp.com) or [@phishnet](https://github.com/phishnet). 
-- 🎧 I like Phish, Umphrey's McGee, Ghost, Dream Theater, Haken, and lots of other music. 
+- 🐡 Most people know me from [@phishnet](https://github.com/phishnet).
+- I'm the original author of [Songfish](https://songfishapp.com), a popular setlist tracking platform. 
+- 🎧 I like Phish, [King Gizzard](https://kglw.net), [Umphrey's McGee](https://allthings.umphreys.com), Ghost, Dream Theater, Haken, and lots of other music. 
 - 🍎 I use all of the Apple stuff. 
 - 📦 I write mostly in PHP.
 - 🌞 I'm on Bluesky as [@sethadam1.com](https://bsky.app/profile/sethadam1.com).
 - 📫 You can find me on ~Twitter and~ [Instagram](http://instagram.com/sethadam1/) at @sethadam1.  
 - 🐘 I'm on Mastodon as [@sethadam1@shakedown.social](https://shakedown.social/@sethadam1) and [@sethadam1@fosstodon.org](https://fosstodon.org/@sethadam1).
-- 🧵 I'm on Threads as [@sethadam1@threads.net](https://www.threads.net/@sethadam1), but don't use it much.
 - 🌐 The rest you can find at [sethadam1.com](https://sethadam1.com)
